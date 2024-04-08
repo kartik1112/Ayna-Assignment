@@ -1,7 +1,5 @@
-import 'package:ayna_ui_assignment/Screens/ChatScreen/ui/ChatScreen.dart';
 import 'package:ayna_ui_assignment/Screens/LoginScreen/bloc/auth_bloc_bloc.dart';
 import 'package:ayna_ui_assignment/widgets/CustomButton.dart';
-import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 
 import 'package:ayna_ui_assignment/widgets/CustomTextFieldWidget.dart';
